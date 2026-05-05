@@ -464,9 +464,9 @@ Description: מחפשים קבלן שיפוצים מומלץ שיהפוך את �
 
 - [business_email]
 
-- [business_phone]
+- 0556667575
 
-- [business_address]
+- חולון , חולון
 
 
 
@@ -979,9 +979,9 @@ Description: עבודות גמר איכותיות לבית, שיפוץ מטבח,
 
 - [business_email]
 
-- [business_phone]
+- 0556667575
 
-- [business_address]
+- חולון , חולון
 
 
 
@@ -1381,9 +1381,9 @@ Description: א.א שיפוצים ועבודות גמר הם קבלן שיפוצ
 
 - [business_email]
 
-- [business_phone]
+- 0556667575
 
-- [business_address]
+- חולון , חולון
 
 
 
@@ -1577,7 +1577,7 @@ Description: רוצים לקבל הצעת מחיר לשיפוץ דירה במח�
 
 
 
-[business_phone]
+0556667575
 
 
 
@@ -1585,7 +1585,7 @@ Description: רוצים לקבל הצעת מחיר לשיפוץ דירה במח�
 
 
 
-[business_address]
+חולון , חולון
 
 
 
@@ -1607,7 +1607,7 @@ Description: רוצים לקבל הצעת מחיר לשיפוץ דירה במח�
 
 זמינים לכם לכל שאלה, ייעוץ ותיאום ביקור באתר. מענה מהיר ומקצועי בשעות הפעילות.
 
-[business_phone]
+0556667575
 
 
 
@@ -1745,9 +1745,9 @@ Description: רוצים לקבל הצעת מחיר לשיפוץ דירה במח�
 
 - [business_email]
 
-- [business_phone]
+- 0556667575
 
-- [business_address]
+- חולון , חולון
 
 
 
@@ -1944,9 +1944,9 @@ Description: מדיניות הפרטיות שלנו - כיצד אנו אוספי
 
 - אימייל: [business_email]
 
-- טלפון: [business_phone]
+- טלפון: 0556667575
 
-- כתובת: [business_address]
+- כתובת: חולון , חולון
 
 
 
@@ -2001,9 +2001,9 @@ Description: מדיניות הפרטיות שלנו - כיצד אנו אוספי
 
 - [business_email]
 
-- [business_phone]
+- 0556667575
 
-- [business_address]
+- חולון , חולון
 
 
 
@@ -2208,7 +2208,7 @@ Description: הצהרת הנגישות שלנו - מחויבותנו לנגיש�
 
 - אימייל: [business_email]
 
-- טלפון: [business_phone]
+- טלפון: 0556667575
 
 
 
@@ -2266,9 +2266,9 @@ Description: הצהרת הנגישות שלנו - מחויבותנו לנגיש�
 
 - [business_email]
 
-- [business_phone]
+- 0556667575
 
-- [business_address]
+- חולון , חולון
 
 
 
@@ -2496,9 +2496,9 @@ Description: תנאי השימוש באתר - הזכויות והחובות של
 
 - אימייל: [business_email]
 
-- טלפון: [business_phone]
+- טלפון: 0556667575
 
-- כתובת: [business_address]
+- כתובת: חולון , חולון
 
 
 
@@ -2550,9 +2550,9 @@ Description: תנאי השימוש באתר - הזכויות והחובות של
 
 - [business_email]
 
-- [business_phone]
+- 0556667575
 
-- [business_address]
+- חולון , חולון
 
 
 

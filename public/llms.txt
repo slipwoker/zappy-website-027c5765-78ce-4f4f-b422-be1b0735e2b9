@@ -1,0 +1,79 @@
+# א.א שיפוצים ועבודות גמר — Generative Engine Optimization Map
+
+> A renovation contractor business focused on home and building improvement services. The business operates in the construction and renovation industry, providing professional remodeling and refurbishment solutions to clients.
+
+---
+
+## Pages
+
+### בית
+https://-027c5765.zappy5.app
+מחפשים קבלן שיפוצים מומלץ שיהפוך את הבית שלכם לחלום? א.א שיפוצים ועבודות גמר מספקים בנייה ושיפוצים ברמה הגבוהה ביותר. צרו קשר עוד היום!
+
+### שירותים
+https://-027c5765.zappy5.app/services
+עבודות גמר איכותיות לבית, שיפוץ מטבח, חדרי אמבטיה ועוד — גלו את מגוון שירותי הבנייה והשיפוצים שלנו ובחרו את הפתרון המושלם עבורכם. איכות ללא פשרות!
+
+### אודות
+https://-027c5765.zappy5.app/about
+א.א שיפוצים ועבודות גמר הם קבלן שיפוצים מומלץ עם ניסיון עשיר בבנייה ושיפוצים. למדו על הערכים, המומחיות והמחויבות שלנו לכל לקוח — כי אצלנו כל פרויקט הוא סיפור הצלחה.
+
+### צור קשר
+https://-027c5765.zappy5.app/contact
+רוצים לקבל הצעת מחיר לשיפוץ דירה במחיר משתלם? צרו קשר עם א.א שיפוצים ועבודות גמר עכשיו — נשמח לענות על כל שאלה ולהתחיל לתכנן את הפרויקט שלכם יחד. אל תחכו!
+
+## Legal & Policy
+
+### Privacy Policy
+https://-027c5765.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://-027c5765.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://-027c5765.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## How to Contact Us
+
+- (No contact details configured yet.)
+
+### Contact form
+- URL: https://-027c5765.zappy5.app/contact
+- Endpoint: https://-027c5765.zappy5.app/api/email/contact-form
+- Method: POST
+- Content-Type: application/json
+- Fields:
+  - `name` (text, required)
+  - `email` (email, required)
+  - `phone` (tel)
+  - `service` (text)
+  - `message` (textarea, required)
+  - `privacy_consent` (checkbox, required)
+
+---
+
+# Business Context (for LLM understanding)
+
+## About א.א שיפוצים ועבודות גמר
+A renovation contractor business focused on home and building improvement services. The business operates in the construction and renovation industry, providing professional remodeling and refurbishment solutions to clients.
+
+## Target Audience
+- מחפשי שיפוצים לבית
+- בעלי בתים חדשים
+- בעלי נכסים יוקרתיים
+
+## Industry
+בנייה ושיפוצים
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://-027c5765.zappy5.app/sitemap.xml
+- Robots: https://-027c5765.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://-027c5765.zappy5.app/llms-full.txt

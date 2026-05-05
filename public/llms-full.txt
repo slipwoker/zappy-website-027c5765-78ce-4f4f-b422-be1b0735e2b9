@@ -2,13 +2,13 @@
 
 A renovation contractor business focused on home and building improvement services. The business operates in the construction and renovation industry, providing professional remodeling and refurbishment solutions to clients.
 
-Source: https://-027c5765.zappy5.app
+Source: https://example.com
 
 ---
 
 ## בנייה ושיפוצים — א.א שיפוצים ועבודות גמר
 
-URL: https://-027c5765.zappy5.app
+URL: https://example.com
 Description: מחפשים קבלן שיפוצים מומלץ שיהפוך את הבית שלכם לחלום? א.א שיפוצים ועבודות גמר מספקים בנייה ושיפוצים ברמה הגבוהה ביותר. צרו קשר עוד היום!
 
 בנייה ושיפוצים — א.א שיפוצים ועבודות גמר
@@ -504,7 +504,7 @@ Description: מחפשים קבלן שיפוצים מומלץ שיהפוך את �
 
 ## כל שירות שיפוץ במקום אחד — א.א שיפוצים ועבודות גמר
 
-URL: https://-027c5765.zappy5.app/services
+URL: https://example.com/services
 Description: עבודות גמר איכותיות לבית, שיפוץ מטבח, חדרי אמבטיה ועוד — גלו את מגוון שירותי הבנייה והשיפוצים שלנו ובחרו את הפתרון המושלם עבורכם. איכות ללא פשרות!
 
 כל שירות שיפוץ במקום אחד — א.א שיפוצים ועבודות גמר
@@ -1019,7 +1019,7 @@ Description: עבודות גמר איכותיות לבית, שיפוץ מטבח,
 
 ## מקצוענות שנבנית עם השנים — א.א שיפוצים ועבודות גמר
 
-URL: https://-027c5765.zappy5.app/about
+URL: https://example.com/about
 Description: א.א שיפוצים ועבודות גמר הם קבלן שיפוצים מומלץ עם ניסיון עשיר בבנייה ושיפוצים. למדו על הערכים, המומחיות והמחויבות שלנו לכל לקוח — כי אצלנו כל פרויקט הוא סיפור הצלחה.
 
 מקצוענות שנבנית עם השנים — א.א שיפוצים ועבודות גמר
@@ -1421,7 +1421,7 @@ Description: א.א שיפוצים ועבודות גמר הם קבלן שיפוצ
 
 ## דברו איתנו ותתחילו לשפץ — א.א שיפוצים ועבודות גמר
 
-URL: https://-027c5765.zappy5.app/contact
+URL: https://example.com/contact
 Description: רוצים לקבל הצעת מחיר לשיפוץ דירה במחיר משתלם? צרו קשר עם א.א שיפוצים ועבודות גמר עכשיו — נשמח לענות על כל שאלה ולהתחיל לתכנן את הפרויקט שלכם יחד. אל תחכו!
 
 דברו איתנו ותתחילו לשפץ — א.א שיפוצים ועבודות גמר
@@ -1785,7 +1785,7 @@ Description: רוצים לקבל הצעת מחיר לשיפוץ דירה במח�
 
 ## מדיניות פרטיות
 
-URL: https://-027c5765.zappy5.app/privacy
+URL: https://example.com/privacy
 Description: מדיניות הפרטיות שלנו - כיצד אנו אוספים, משתמשים ומגנים על המידע שלכם
 
 מדיניות פרטיות
@@ -2041,7 +2041,7 @@ Description: מדיניות הפרטיות שלנו - כיצד אנו אוספי
 
 ## הצהרת נגישות
 
-URL: https://-027c5765.zappy5.app/accessibility
+URL: https://example.com/accessibility
 Description: הצהרת הנגישות שלנו - מחויבותנו לנגישות דיגיטלית
 
 הצהרת נגישות
@@ -2306,7 +2306,7 @@ Description: הצהרת הנגישות שלנו - מחויבותנו לנגיש�
 
 ## תנאי שימוש
 
-URL: https://-027c5765.zappy5.app/terms
+URL: https://example.com/terms
 Description: תנאי השימוש באתר - הזכויות והחובות של המשתמשים
 
 תנאי שימוש
